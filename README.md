@@ -1,6 +1,15 @@
 # NYTLetterBoxed
 A Python program designed to help players of the New York Times [Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed) puzzle game. In this game, players create words using letters arranged around a square. The program identifies all possible words based on the letters provided, adhering to the game's rules that prohibit using letters from the same side consecutively.
 
+## NYT Puzzles and codes
+| Puzzles        | Code       |
+|----------------|----------------|
+| [Wordle](https://www.nytimes.com/games/wordle/index.html)    | [NYTWordle](https://github.com/FarnoodID/NYTWordle)           |
+| [Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed) | NYTLetterBoxed |
+| [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) | [NYTSpellingBee](https://github.com/FarnoodID/NYTSpellingBee) |
+| [Sudoku](https://www.nytimes.com/puzzles/sudoku)             | [NYTSudoku](https://github.com/FarnoodID/NYTSudoku)           |
+| [Pixletters](https://pixletters.com/)                        | [Pixletters](https://github.com/FarnoodID/Pixletters)         |
+
 ## Features
 - **Word Selection**: The program uses a predefined list of valid words stored in `words.txt`.
 - **User Input**: Players enter letters for each side of the square, allowing the program to identify valid words.
